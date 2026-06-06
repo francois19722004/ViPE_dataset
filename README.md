@@ -86,13 +86,7 @@ uv init
 
 uv venv
 
-\# Linux/Mac
-
-source .venv/bin/activate
-
-\# Windows PowerShell
-
-.venv\\Scripts\\Activate.ps1
+.venv/Scripts/activate
 
 ```
 
