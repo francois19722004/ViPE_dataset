@@ -1,0 +1,7 @@
+numpy
+matplotlib
+OpenEXR
+Imath
+huggingface_hub
+pandas
+pyarrow
